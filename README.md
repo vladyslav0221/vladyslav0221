@@ -28,7 +28,7 @@
 
 # 💫 About Me:
 
-- 🧠 I’m interested in FullStack. Since 2022, I've dived into AI a great interest.
+- 🧠 I’m interested in FullStack. Since 2020, I've dived into Web & Native Mobile a great interest.
 - 👨🏽‍🏫 Currently learning LangChain, Go,& Machine Learning.
 - 📚  I’m constantly learning new tools and techniques.
 - 💻  I’m looking forward to collaborate with you on interesting projects.
