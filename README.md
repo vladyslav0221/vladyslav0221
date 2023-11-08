@@ -1,4 +1,4 @@
-## Hi there 👋 , I’m Jacob Lee!
+## Hi there 👋 , I’m Vladyslav Sudarenko!
 <p align="center">
   <img src="Logo.gif" alt="LOGO" width="850px" height="359px" />
 </p>
@@ -21,7 +21,7 @@
 
 <div align="center">
   <span style="font-size: 24px; line-height: 1.5;">
-    🐍 <b>Node.js</b> | 👩‍💻 <b>Python</b> | 💻 <b>Typescript</b> | 👍 <b>Javascript</b>|📚 <b>Golang</b> | 👍 <b>OpenAI</b> | 📚 <b>LangChain</b> | 📝 <b>Bot     
+    🐍 <b>Node.js</b> | 👩‍💻 <b>Python</b> | 💻 <b>Typescript</b> | 👍 <b>Javascript</b>| 👍 <b>PHP</b>| 👍 <b>MERN Stack</b>| 👍 <b>Laravel</b>|📚 <b>Golang</b> | 👍 <b>OpenAI</b> | 📝 <b>Bot     
      Development</b> 
   </span>
 </div>
@@ -53,9 +53,7 @@
 # 💌Contact me:
 <div style="align-center">
      <p align="center" style="margin-top: 50px;">
-          <a href="mailto:smartdeveloper1002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
-          &nbsp;&nbsp;
-          <a href="https://join.skype.com/invite/CYkjV9PBFlcT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
+          <a href="mailto:vladyslavsudarenko@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
           &nbsp;&nbsp;
 </div>
 
